@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XuXingAnn.github.io</id>
     <title>Allen</title>
-    <updated>2020-08-02T11:55:00.205Z</updated>
+    <updated>2020-08-02T12:25:34.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XuXingAnn.github.io"/>
     <link rel="self" href="https://XuXingAnn.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://XuXingAnn.github.io/images/avatar.png</logo>
     <icon>https://XuXingAnn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Allen</rights>
+    <entry>
+        <title type="html"><![CDATA[demol]]></title>
+        <id>https://XuXingAnn.github.io/post/demol/</id>
+        <link href="https://XuXingAnn.github.io/post/demol/">
+        </link>
+        <updated>2020-08-02T12:24:50.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+<p>For general information about XenServer and OpenStack see:</p>
+<p>Getting Started with XenServer and OpenStack<br>
+Introduction to using Xen and Citrix XenServer with OpenStack<br>
+In development environments you can also use a Virtual Box based development environment:</p>
+<p>Information on configuration of XenServer:</p>
+<p>Post Install steps to prepare XenServer to work with OpenStack<br>
+Configuring networking with XenServer<br>
+Other topics:</p>
+<p>XenServer Gate integration<br>
+Installing XenServer<br>
+PXE Installing XenServer<br>
+XenServer and DevStack<br>
+XenServer and VLAN networking<br>
+XenServer and Tempest<br>
+QuantumDevstackOvsXcp<br>
+XenServer Virtualization Overhead</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://XuXingAnn.github.io/post/hello-gridea/</id>
