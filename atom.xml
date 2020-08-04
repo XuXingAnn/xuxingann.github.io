@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XuXingAnn.github.io</id>
     <title>Allen</title>
-    <updated>2020-08-04T01:26:43.190Z</updated>
+    <updated>2020-08-04T01:40:20.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XuXingAnn.github.io"/>
     <link rel="self" href="https://XuXingAnn.github.io/atom.xml"/>
@@ -65,6 +65,50 @@ XenServer Virtualization Overhead</p>
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[demo2]]></title>
+        <id>https://XuXingAnn.github.io/post/demo2/</id>
+        <link href="https://XuXingAnn.github.io/post/demo2/">
+        </link>
+        <updated>2017-08-08T01:38:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>1 class Solution {<br>
+2     public int[] twoSum(int[] nums, int target) {<br>
+3         int[] down={-1,-1};<br>
+4<br>
+5         for(int i=0;i&lt;nums.length;i++){<br>
+6             down[0]=i;<br>
+7             for(int j=i+1;j&lt;nums.length;j++){<br>
+8                 if(nums[j]==(target-nums[i])){<br>
+9                     down[1]=j;<br>
+10                      return down;<br>
+11                 }<br>
+12             }<br>
+13<br>
+14         }</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1 class Solution {<br>
+2     public int[] twoSum(int[] nums, int target) {<br>
+3         int[] down={-1,-1};<br>
+4<br>
+5         for(int i=0;i&lt;nums.length;i++){<br>
+6             down[0]=i;<br>
+7             for(int j=i+1;j&lt;nums.length;j++){<br>
+8                 if(nums[j]==(target-nums[i])){<br>
+9                     down[1]=j;<br>
+10                      return down;<br>
+11                 }<br>
+12             }<br>
+13<br>
+14         }</p>
+<!-- more -->
+<p>11111\</p>
+<!-- more -->
+<!-- more -->
+<p>15         return down;<br>
+16<br>
+17     }</p>
 ]]></content>
     </entry>
 </feed>
