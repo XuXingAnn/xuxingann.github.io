@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XuXingAnn.github.io</id>
     <title>Allen</title>
-    <updated>2020-08-22T06:00:47.576Z</updated>
+    <updated>2020-08-22T06:01:34.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XuXingAnn.github.io"/>
     <link rel="self" href="https://XuXingAnn.github.io/atom.xml"/>
@@ -116,63 +116,6 @@ printf(&quot;111100)
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[demo3]]></title>
-        <id>https://XuXingAnn.github.io/post/demo3/</id>
-        <link href="https://XuXingAnn.github.io/post/demo3/">
-        </link>
-        <updated>2020-08-20T03:09:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是个摘要<br>
-<img src="https://XuXingAnn.github.io/post-images/1597892996539.png" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是个摘要<br>
-<img src="https://XuXingAnn.github.io/post-images/1597892996539.png" alt="" loading="lazy"></p>
-<!-- more -->
-<p>下面是内容<br>
-<img src="https://XuXingAnn.github.io/post-images/1597893026550.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是个标题]]></title>
-        <id>https://XuXingAnn.github.io/post/zhe-shi-ge-biao-ti/</id>
-        <link href="https://XuXingAnn.github.io/post/zhe-shi-ge-biao-ti/">
-        </link>
-        <updated>2020-08-20T02:31:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是内容 👪👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👦‍👦😇🙂😉🚩</p>
-<figure data-type="image" tabindex="1"><img src="https://XuXingAnn.github.io/post-images/1597890780320.jpg" alt="" loading="lazy"></figure>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是内容 👪👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👦‍👦😇🙂😉🚩</p>
-<figure data-type="image" tabindex="1"><img src="https://XuXingAnn.github.io/post-images/1597890780320.jpg" alt="" loading="lazy"></figure>
-<!-- more -->
-<!-- more -->
-<p>这是内容 4444444444444444444444444444444444444<img src="https://XuXingAnn.github.io/post-images/1597890841869.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[demol]]></title>
-        <id>https://XuXingAnn.github.io/post/demol/</id>
-        <link href="https://XuXingAnn.github.io/post/demol/">
-        </link>
-        <updated>2020-08-02T12:24:50.000Z</updated>
-        <content type="html"><![CDATA[<p>测试</p>
-<p>For general information about XenServer and OpenStack see:</p>
-<p>Getting Started with XenServer and OpenStack<br>
-Introduction to using Xen and Citrix XenServer with OpenStack<br>
-In development environments you can also use a Virtual Box based development environment:</p>
-<p>Information on configuration of XenServer:</p>
-<p>Post Install steps to prepare XenServer to work with OpenStack<br>
-Configuring networking with XenServer<br>
-Other topics:</p>
-<p>XenServer Gate integration<br>
-Installing XenServer<br>
-PXE Installing XenServer<br>
-XenServer and DevStack<br>
-XenServer and VLAN networking<br>
-XenServer and Tempest<br>
-QuantumDevstackOvsXcp<br>
-XenServer Virtualization Overhead</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://XuXingAnn.github.io/post/hello-gridea/</id>
         <link href="https://XuXingAnn.github.io/post/hello-gridea/">
@@ -202,50 +145,6 @@ XenServer Virtualization Overhead</p>
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[demo2]]></title>
-        <id>https://XuXingAnn.github.io/post/demo2/</id>
-        <link href="https://XuXingAnn.github.io/post/demo2/">
-        </link>
-        <updated>2017-08-08T01:38:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>1 class Solution {<br>
-2     public int[] twoSum(int[] nums, int target) {<br>
-3         int[] down={-1,-1};<br>
-4<br>
-5         for(int i=0;i&lt;nums.length;i++){<br>
-6             down[0]=i;<br>
-7             for(int j=i+1;j&lt;nums.length;j++){<br>
-8                 if(nums[j]==(target-nums[i])){<br>
-9                     down[1]=j;<br>
-10                      return down;<br>
-11                 }<br>
-12             }<br>
-13<br>
-14         }</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>1 class Solution {<br>
-2     public int[] twoSum(int[] nums, int target) {<br>
-3         int[] down={-1,-1};<br>
-4<br>
-5         for(int i=0;i&lt;nums.length;i++){<br>
-6             down[0]=i;<br>
-7             for(int j=i+1;j&lt;nums.length;j++){<br>
-8                 if(nums[j]==(target-nums[i])){<br>
-9                     down[1]=j;<br>
-10                      return down;<br>
-11                 }<br>
-12             }<br>
-13<br>
-14         }</p>
-<!-- more -->
-<p>11111\</p>
-<!-- more -->
-<!-- more -->
-<p>15         return down;<br>
-16<br>
-17     }</p>
 ]]></content>
     </entry>
 </feed>
