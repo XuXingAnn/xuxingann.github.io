@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XuXingAnn.github.io</id>
     <title>Allen</title>
-    <updated>2020-08-20T03:16:16.631Z</updated>
+    <updated>2020-08-22T01:42:29.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XuXingAnn.github.io"/>
     <link rel="self" href="https://XuXingAnn.github.io/atom.xml"/>
@@ -10,6 +10,111 @@
     <logo>https://XuXingAnn.github.io/images/avatar.png</logo>
     <icon>https://XuXingAnn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Allen</rights>
+    <entry>
+        <title type="html"><![CDATA[学习Mark语法]]></title>
+        <id>https://XuXingAnn.github.io/post/xue-xi-mark-yu-fa/</id>
+        <link href="https://XuXingAnn.github.io/post/xue-xi-mark-yu-fa/">
+        </link>
+        <updated>2020-08-22T00:50:03.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://XuXingAnn.github.io/post-images/1598057452717.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://XuXingAnn.github.io/post-images/1598057452717.jpg" alt="" loading="lazy"></figure>
+<h1 id="-more-这个是一级标题"><!-- more --><br>
+这个是一级标题</h1>
+<h2 id="这是二级标题">这是二级标题</h2>
+<p>#一级标题<br>
+##二级标题<br>
+###三级标题<br>
+####四级标题<br>
+#####五级标题<br>
+######六级标题</p>
+<p>15151515151516161611561561561651616516156156156156156165156156156165165156165165165156165165165<br>
+这也是段落</p>
+<p><em>斜体作文本1</em><br>
+<em>斜体文本2</em></p>
+<p><strong>粗体文本</strong><br>
+_<strong>粗体文本</strong></p>
+<p><em><strong>粗体斜文本</strong></em><br>
+<em><strong>粗体斜文本</strong></em></p>
+<p>分割线</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>~~删除线 ~~</p>
+<p><u>下划线</u></p>
+<p>给这句话加个脚注[^这是脚注内容]</p>
+<p>列表</p>
+<ul>
+<li>无序列表</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<p>有序列表</p>
+<ol>
+<li>
+<p>第一项</p>
+</li>
+<li>
+<p>第二项</p>
+</li>
+<li>
+<p>第三项</p>
+<p>列表嵌套</p>
+</li>
+<li>
+<p>第一项</p>
+<ul>
+<li>第一项的第一个</li>
+<li>第一项的第二个</li>
+<li>第一项的第三个</li>
+</ul>
+</li>
+<li>
+<p>第二项</p>
+</li>
+</ol>
+<ul>
+<li>第二项第一个</li>
+<li>第二项第二个</li>
+<li>第二项第三个</li>
+</ul>
+<p>区块嵌套</p>
+<blockquote>
+<p>最外层</p>
+<blockquote>
+<p>第一层的嵌套</p>
+<blockquote>
+<p>第二层的嵌套</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p><code>int main() printf(&quot;111100)</code></p>
+<pre><code class="language-python">int main()
+printf(&quot;111100)
+</code></pre>
+<p>这是一个连接<a href="https://bsbs.work/">https://bsbs.work/</a></p>
+<p>表格</p>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th>表头</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[demo3]]></title>
         <id>https://XuXingAnn.github.io/post/demo3/</id>
